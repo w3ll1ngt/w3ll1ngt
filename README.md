@@ -1,21 +1,8 @@
 ## Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C563%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C563%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
-
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   10 commits          ██████████████░░░░░░░░░░░   55.56 % 
-Tuesday                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Thursday                 2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Friday                   3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,12 +27,8 @@ DataGrip                 4 mins              ░░░░░░░░░░░�
 Linux                    27 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/w3ll1ngt/w3ll1ngt/master/assets/bar_graph.png)
-
-
- Last Updated on 09/12/2024 20:26:13 UTC
+ Last Updated on 09/12/2024 20:38:29 UTC
 <!--END_SECTION:waka-->
 <!--
 **w3ll1ngt/w3ll1ngt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
