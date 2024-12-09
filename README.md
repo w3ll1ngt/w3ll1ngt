@@ -1,29 +1,9 @@
 ## Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C563%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C563%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 12.7 kB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌃 Evening                12 commits          █████████████████░░░░░░░░   66.67 % 
-🌙 Night                  3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
 📅 **I'm Most Productive on Monday** 
 
 ```text
@@ -60,21 +40,12 @@ DataGrip                 4 mins              ░░░░░░░░░░░�
 Linux                    27 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-```
-
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/w3ll1ngt/w3ll1ngt/master/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2024 20:20:18 UTC
+ Last Updated on 09/12/2024 20:26:13 UTC
 <!--END_SECTION:waka-->
 <!--
 **w3ll1ngt/w3ll1ngt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
