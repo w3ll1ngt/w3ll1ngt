@@ -1,8 +1,8 @@
 ## Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C688%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C689%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,7 +26,7 @@ Linux                    3 hrs 43 mins       ███████████�
 ```
 
 
- Last Updated on 21/01/2025 21:16:49 UTC
+ Last Updated on 22/01/2025 21:13:53 UTC
 <!--END_SECTION:waka-->
 <!--
 **w3ll1ngt/w3ll1ngt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
